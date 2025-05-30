@@ -1,0 +1,3 @@
+# .github/CODEOWNERS
+# Global rule - require dev team approval for most files
+* @dev-team
